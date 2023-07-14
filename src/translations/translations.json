@@ -1,0 +1,50 @@
+{
+  "de": {
+    "todoListTitle": "Aufgaben Liste",
+    "todoListTabNameAllTasks": "Alle Aufgaben",
+    "todoListTabNameCompleted": "Abgeschlossen",
+    "todoListTabNameActive": "Aktiv",
+    "addButton": "Hinzufügen",
+    "inputBoxPlaceholder": "Eine Aufgabe hinzufügen ...",
+    "fetchingTasksLabel": "Aufgaben abholen ...",
+    "todoItemAriaLabelCheckedState": "Der Eintrag ist abgeschlossen.",
+    "todoItemAriaLabelUncheckedState": "Der Eintrag ist aktiv.",
+    "todoItemAriaLabelTitle": "Der Titel ist",
+    "deleteItemTitle": "Eintrag löschen.",
+    "deleteItemAriaLabel": "Löschen",
+    "workingOnSpinnerLabel": "Arbeite an ...",
+    "titleEmptyErrorMessage": "Bitte tragen sie einen Wert ein."
+  },
+  "fr": {
+    "todoListTitle": "",
+    "todoListTabNameAllTasks": "Toutes les tâches",
+    "todoListTabNameCompleted": "Terminé",
+    "todoListTabNameActive": "Active",
+    "addButton": "Ajouter",
+    "inputBoxPlaceholder": "Ajouter une tâche ...",
+    "fetchingTasksLabel": "Récupérer vos tâches ...",
+    "todoItemAriaLabelCheckedState": "",
+    "todoItemAriaLabelUncheckedState": "Cet élément est actif.",
+    "todoItemAriaLabelTitle": "Le titre est",
+    "deleteItemTitle": "Supprimer cet élément",
+    "deleteItemAriaLabel": "Supprimez",
+    "workingOnSpinnerLabel": "",
+    "titleEmptyErrorMessage": ""
+  },
+  "it": {
+    "todoListTitle": "",
+    "todoListTabNameAllTasks": "Tutte le attività",
+    "todoListTabNameCompleted": "Completato",
+    "todoListTabNameActive": "",
+    "addButton": "Aggiungi",
+    "inputBoxPlaceholder": "Aggiungere un'attività ...",
+    "fetchingTasksLabel": "Recupera i tuoi compiti ...",
+    "todoItemAriaLabelCheckedState": "",
+    "todoItemAriaLabelUncheckedState": "Questo elemento è attivo.",
+    "todoItemAriaLabelTitle": "Il titolo è",
+    "deleteItemTitle": "Elimina l'elemento.",
+    "deleteItemAriaLabel": "Elimina",
+    "workingOnSpinnerLabel": "",
+    "titleEmptyErrorMessage": ""
+  }
+}

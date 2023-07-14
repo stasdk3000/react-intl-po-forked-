@@ -1,0 +1,72 @@
+[
+  {
+    "id": "todoListTitle",
+    "defaultMessage": "Todo List",
+    "filepath": "./src/translations/strings.js"
+  },
+  {
+    "id": "todoListTabNameAllTasks",
+    "defaultMessage": "All Tasks",
+    "filepath": "./src/translations/strings.js"
+  },
+  {
+    "id": "todoListTabNameCompleted",
+    "defaultMessage": "Completed",
+    "filepath": "./src/translations/strings.js"
+  },
+  {
+    "id": "todoListTabNameActive",
+    "defaultMessage": "Active",
+    "filepath": "./src/translations/strings.js"
+  },
+  {
+    "id": "addButton",
+    "defaultMessage": "Add",
+    "filepath": "./src/translations/strings.js"
+  },
+  {
+    "id": "inputBoxPlaceholder",
+    "defaultMessage": "Add a task...",
+    "filepath": "./src/translations/strings.js"
+  },
+  {
+    "id": "fetchingTasksLabel",
+    "defaultMessage": "Fetching your tasks...",
+    "filepath": "./src/translations/strings.js"
+  },
+  {
+    "id": "todoItemAriaLabelCheckedState",
+    "defaultMessage": "This item is completed.",
+    "filepath": "./src/translations/strings.js"
+  },
+  {
+    "id": "todoItemAriaLabelUncheckedState",
+    "defaultMessage": "This item is active.",
+    "filepath": "./src/translations/strings.js"
+  },
+  {
+    "id": "todoItemAriaLabelTitle",
+    "defaultMessage": "The title is",
+    "filepath": "./src/translations/strings.js"
+  },
+  {
+    "id": "deleteItemTitle",
+    "defaultMessage": "Delete this item.",
+    "filepath": "./src/translations/strings.js"
+  },
+  {
+    "id": "deleteItemAriaLabel",
+    "defaultMessage": "Delete",
+    "filepath": "./src/translations/strings.js"
+  },
+  {
+    "id": "workingOnSpinnerLabel",
+    "defaultMessage": "Working on...",
+    "filepath": "./src/translations/strings.js"
+  },
+  {
+    "id": "titleEmptyErrorMessage",
+    "defaultMessage": "You can not leave this blank.",
+    "filepath": "./src/translations/strings.js"
+  }
+]

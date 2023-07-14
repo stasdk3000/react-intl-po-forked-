@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2017-08-01T09:30:24.424Z\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 2.0.3\n"
+"Project-Id-Version: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: it\n"
+
+#. [todoListTabNameActive]
+#. defaultMessage is:
+#. Active
+#: src/translations/messages.json
+msgid "Active"
+msgstr ""
+
+#. [addButton]
+#. defaultMessage is:
+#. Add
+#: src/translations/messages.json
+msgid "Add"
+msgstr "Aggiungi"
+
+#. [inputBoxPlaceholder]
+#. defaultMessage is:
+#. Add a task...
+#: src/translations/messages.json
+msgid "Add a task..."
+msgstr "Aggiungere un'attività ..."
+
+#. [todoListTabNameAllTasks]
+#. defaultMessage is:
+#. All Tasks
+#: src/translations/messages.json
+msgid "All Tasks"
+msgstr "Tutte le attività"
+
+#. [todoListTabNameCompleted]
+#. defaultMessage is:
+#. Completed
+#: src/translations/messages.json
+msgid "Completed"
+msgstr "Completato"
+
+#. [deleteItemAriaLabel]
+#. defaultMessage is:
+#. Delete
+#: src/translations/messages.json
+msgid "Delete"
+msgstr "Elimina"
+
+#. [deleteItemTitle]
+#. defaultMessage is:
+#. Delete this item.
+#: src/translations/messages.json
+msgid "Delete this item."
+msgstr "Elimina l'elemento."
+
+#. [fetchingTasksLabel]
+#. defaultMessage is:
+#. Fetching your tasks...
+#: src/translations/messages.json
+msgid "Fetching your tasks..."
+msgstr "Recupera i tuoi compiti ..."
+
+#. [todoItemAriaLabelTitle]
+#. defaultMessage is:
+#. The title is
+#: src/translations/messages.json
+msgid "The title is"
+msgstr "Il titolo è"
+
+#. [todoItemAriaLabelUncheckedState]
+#. defaultMessage is:
+#. This item is active.
+#: src/translations/messages.json
+msgid "This item is active."
+msgstr "Questo elemento è attivo."
+
+#. [todoItemAriaLabelCheckedState]
+#. defaultMessage is:
+#. This item is completed.
+#: src/translations/messages.json
+msgid "This item is completed."
+msgstr ""
+
+#. [todoListTitle]
+#. defaultMessage is:
+#. Todo List
+#: src/translations/messages.json
+msgid "Todo List"
+msgstr ""
+
+#. [workingOnSpinnerLabel]
+#. defaultMessage is:
+#. Working on...
+#: src/translations/messages.json
+msgid "Working on..."
+msgstr ""
+
+#. [titleEmptyErrorMessage]
+#. defaultMessage is:
+#. You can not leave this blank.
+#: src/translations/messages.json
+msgid "You can not leave this blank."
+msgstr ""

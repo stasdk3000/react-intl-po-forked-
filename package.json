@@ -1,0 +1,30 @@
+{
+  "name": "todo-app",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://mat10.crm4.dynamics.com/WebResources/new_",
+  "dependencies": {
+    "es6-promise": "^4.1.1",
+    "immutability-helper": "^2.3.0",
+    "node-sass-chokidar": "0.0.3",
+    "office-ui-fabric-react": "^4.23.0",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-intl": "^2.3.0",
+    "react-intl-cra": "^0.2.7",
+    "react-intl-po": "^2.1.1",
+    "react-scripts": "1.0.10",
+    "xrm-webapi": "^2.3.1"
+  },
+  "scripts": {
+    "build-css": "node-sass-chokidar src/ -o src/",
+    "watch-css": "npm run build-css && node-sass-chokidar src/ -o src/ --watch --recursive",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "extract:messages": "react-intl-cra ./src/**/*.js ./src/translations/messages.json",
+    "extract:pot": "react-intl-po json2pot ./src/translations/messages.json -o ./src/translations/messages.pot",
+    "extract:json": "react-intl-po po2json ./src/translations/*.po -m ./src/translations/**/*.json -o ./src/translations/translations.json"
+  }
+}

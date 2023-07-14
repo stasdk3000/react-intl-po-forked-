@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2023-07-14T17:58:19.418Z\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"X-Generator: react-intl-po\n"
+
+
+#: ./src/translations/messages.json
+#. [todoListTabNameActive]
+#. defaultMessage is:
+#. Active
+msgid "Active"
+msgstr ""
+
+#: ./src/translations/messages.json
+#. [addButton]
+#. defaultMessage is:
+#. Add
+msgid "Add"
+msgstr ""
+
+#: ./src/translations/messages.json
+#. [inputBoxPlaceholder]
+#. defaultMessage is:
+#. Add a task...
+msgid "Add a task..."
+msgstr ""
+
+#: ./src/translations/messages.json
+#. [todoListTabNameAllTasks]
+#. defaultMessage is:
+#. All Tasks
+msgid "All Tasks"
+msgstr ""
+
+#: ./src/translations/messages.json
+#. [todoListTabNameCompleted]
+#. defaultMessage is:
+#. Completed
+msgid "Completed"
+msgstr ""
+
+#: ./src/translations/messages.json
+#. [deleteItemAriaLabel]
+#. defaultMessage is:
+#. Delete
+msgid "Delete"
+msgstr ""
+
+#: ./src/translations/messages.json
+#. [deleteItemTitle]
+#. defaultMessage is:
+#. Delete this item.
+msgid "Delete this item."
+msgstr ""
+
+#: ./src/translations/messages.json
+#. [fetchingTasksLabel]
+#. defaultMessage is:
+#. Fetching your tasks...
+msgid "Fetching your tasks..."
+msgstr ""
+
+#: ./src/translations/messages.json
+#. [todoItemAriaLabelTitle]
+#. defaultMessage is:
+#. The title is
+msgid "The title is"
+msgstr ""
+
+#: ./src/translations/messages.json
+#. [todoItemAriaLabelUncheckedState]
+#. defaultMessage is:
+#. This item is active.
+msgid "This item is active."
+msgstr ""
+
+#: ./src/translations/messages.json
+#. [todoItemAriaLabelCheckedState]
+#. defaultMessage is:
+#. This item is completed.
+msgid "This item is completed."
+msgstr ""
+
+#: ./src/translations/messages.json
+#. [todoListTitle]
+#. defaultMessage is:
+#. Todo List
+msgid "Todo List"
+msgstr ""
+
+#: ./src/translations/messages.json
+#. [workingOnSpinnerLabel]
+#. defaultMessage is:
+#. Working on...
+msgid "Working on..."
+msgstr ""
+
+#: ./src/translations/messages.json
+#. [titleEmptyErrorMessage]
+#. defaultMessage is:
+#. You can not leave this blank.
+msgid "You can not leave this blank."
+msgstr ""
